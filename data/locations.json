@@ -1,0 +1,225 @@
+[
+	{
+		"name": "Tutorial - Soldier",
+		"region": "Tutorial",
+		"category": ["Tutorial"],
+		"requires": []
+	},
+	{
+		"name": "Starting Area (Outside tutorial) - Cigarette guy",
+		"region": "Starting Area",
+		"category": ["Starting area"],
+		"requires": "|Cigarettes|"
+	},
+	{
+		"name": "Starting Area (Above Sausage stand) - Mariana trench guy",
+		"region": "Starting Area",
+		"category": ["Starting area"],
+		"requires": []
+	},
+	{
+		"name": "Starting Area (Sausage stand) - Salmonella guy",
+		"region": "Starting Area",
+		"category": ["Starting area"],
+		"requires": "|Bacon|"
+	},
+	{
+		"name": "Starting Area (Sausage stand) - Sausage cook",
+		"region": "Starting Area",
+		"category": ["Starting area"],
+		"requires": "|Sausages|"
+	},
+	{
+		"name": "Starting Area (Sausage stand) - \"Don't need sex\" guy",
+		"region": "Starting Area",
+		"category": ["Starting area"],
+		"requires": "|Bacon| AND |Cigarettes|"
+	},
+	{
+		"name": "Starting Area (Sausage stand) - Fish ration soldier",
+		"region": "Starting Area",
+		"category": ["Starting area"],
+		"requires": "|Rations| AND |Cigarettes|"
+	},
+	{
+		"name": "Starting Area (Vending Machine) - \"Ubiquitous\" guy",
+		"region": "Starting Area",
+		"category": ["Starting area"],
+		"requires": []
+	},
+	{
+		"name": "Starting Area (Vending Machine) - Cigarette girl",
+		"region": "Starting Area",
+		"category": ["Starting area"],
+		"requires": "|Cigarettes|"
+	},
+	{
+		"name": "Starting Area (Tower) - Soldier",
+		"region": "Starting Area",
+		"category": ["Starting area"],
+		"requires": "|Rations|"
+	},
+	{
+		"name": "Starting Area (Prison) - Polish GF soldier",
+		"region": "Starting Area",
+		"category": ["Starting area"],
+		"requires": "|Rations|"
+	},
+	{
+		"name": "Prison (Lower) - Interpretive plumbing",
+		"region": "Prison",
+		"category": ["Prison"],
+		"requires": "|Cockroaches|"
+	},
+	{
+		"name": "Prison (Lower) - Gizzard guy",
+		"region": "Prison",
+		"category": ["Prison"],
+		"requires": "|Gizzard| AND |Cigarettes|"
+	},
+	{
+		"name": "Prison (Lower) - Cockroach Breeders",
+		"region": "Prison",
+		"category": ["Prison"],
+		"requires": "|Cockroaches|"
+	},
+	{
+		"name": "Prison (Upper) - Bored soldier",
+		"region": "Prison",
+		"category": ["Prison"],
+		"requires": "|Bullets|"
+	},
+	{
+		"name": "Prison (Upper) - Toilet bros",
+		"region": "Prison",
+		"category": ["Prison"],
+		"requires": "|Bacon| AND |Bullets|"
+	},
+	{
+		"name": "Prison (Upper) - Single toilet inmate",
+		"region": "Prison",
+		"category": ["Prison"],
+		"requires": "|Bullets|"
+	},
+	{
+		"name": "Prison (Upper) - Backwards speech inmate",
+		"region": "Prison",
+		"category": ["Prison"],
+		"requires": "|Pizza| AND |Bullets|"
+	},
+	{
+		"name": "Prison (Dolphin area) - Dolphin guy",
+		"region": "Prison",
+		"category": ["Prison"],
+		"requires": "|Bullets|"
+	},
+	{
+		"region": "Club",
+		"name": "Club (Outside) - Leaking robot",
+		"category": ["Club"],
+		"requires": "|Beer|"
+	},
+	{
+		"region": "Club",
+		"name": "Club (Entrance) - Moist beer guy",
+		"category": ["Club"],
+		"requires": "|Beer|"
+	},
+	{
+		"region": "Club",
+		"name": "Club (Entrance) - Guy laying on a pile of trash",
+		"category": ["Club"],
+		"requires": "|Ice|"
+	},
+	{
+		"region": "Club",
+		"name": "Club (Platform) - Consultant",
+		"category": ["Club"],
+		"requires": "|Ice| AND |Beer|"
+	},
+	{
+		"region": "Club",
+		"name": "Club (Dancefloor) - Bartender",
+		"category": ["Club"],
+		"requires": "|Ice| AND |Cigarettes|"
+	},
+	{
+		"region": "Club",
+		"name": "Club (Dancefloor) - Dancing phone soldier",
+		"category": ["Club"],
+		"requires": "|Rations| AND |Beer|"
+	},
+	{
+		"region": "Club",
+		"name": "Club (Dancefloor) - Dancing \"Missing hands\" guy",
+		"category": ["Club"],
+		"requires": "|Beer|"
+	},
+	{
+		"region": "Club",
+		"name": "Club (Toilets) - Whale",
+		"category": ["Club"],
+		"requires": []
+	},
+	{
+		"region": "Docks",
+		"name": "Docks (Entrance) - Entrance soldier",
+		"category": ["Docks"],
+		"requires": "|Pufferfish| AND |Cigarettes|"
+	},
+	{
+		"region": "Docks",
+		"name": "Docks (Above fish stall) - \"Got your nose\" guy",
+		"category": ["Docks"],
+		"requires": "|Pufferfish|"
+	},
+	{
+		"region": "Docks",
+		"name": "Docks (Bar) - Veteran soldier",
+		"category": ["Docks"],
+		"requires": "|Fish| AND |Cigarettes|"
+	},
+	{
+		"region": "Docks",
+		"name": "Docks (Fish stall) - Guy on the right of the fish stall",
+		"category": ["Docks"],
+		"requires": "|Pufferfish| AND |Cigarettes| AND |Bacon|"
+	},
+	{
+		"region": "Docks",
+		"name": "Docks (Fish stall) - Fisherman stall",
+		"category": ["Docks"],
+		"requires": "|Bacon|"
+	},
+	{
+		"region": "Docks",
+		"name": "Docks (Fish stall) - 2 soldiers next to the stairs",
+		"category": ["Docks"],
+		"requires": "|Fish| AND |Rations|"
+	},
+	{
+		"region": "Docks",
+		"name": "Docks (Pier) - Enrique",
+		"category": ["Docks"],
+		"requires": "|Stingray|"
+	},
+	{
+		"region": "Docks",
+		"name": "Docks (Pier) - Shirtless man of theseus",
+		"category": ["Docks"],
+		"requires": "|Fish| AND |Pufferfish|"
+	},
+	{
+		"name": "Tower - Saint of Six Stomachs",
+		"region": "END",
+		"category": ["End"],
+		"requires": []
+	},
+	{
+		"region": "END",
+		"name": "Top of Mt. Everest",
+		"victory": true,
+		"category": ["End"],
+		"requires": []
+	}
+]

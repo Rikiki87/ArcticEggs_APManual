@@ -1,0 +1,89 @@
+[
+	{
+		"count":1,
+		"name": "Cigarettes",
+		"category": ["Starting area"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Rations",
+		"category": ["Starting area"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sausages",
+		"category": ["Starting area"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bacon",
+		"category": ["Starting area"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cockroaches",
+		"category": ["Prison"],
+		"value": {"checks": 2},
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bullets",
+		"category": ["Prison"],
+		"value": {"checks": 4},
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Gizzard",
+		"value": {"checks": 1},
+		"category": ["Prison"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Pizza",
+		"value": {"checks": 0},
+		"category": ["Prison"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Beer",
+		"value": {"checks": 4},
+		"category": ["Club"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ice",
+		"value": {"checks": 2},
+		"category": ["Club"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Pufferfish",
+		"value": {"checks": 3},
+		"category": ["Docks"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fish",
+		"value": {"checks": 2},
+		"category": ["Docks"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stingray",
+		"value": {"checks": 1},
+		"category": ["Docks"],
+		"progression": true
+	}
+]

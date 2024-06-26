@@ -1,0 +1,27 @@
+{
+	"Tutorial": 	{
+		"starting": true,
+		"connects_to": ["Starting Area"],
+		"requires": []
+	},
+	"Starting Area": 	{
+		"connects_to": ["Prison","Club","Docks","END"],
+		"requires": []
+	},
+	"Prison": 	{
+		"connects_to": [],
+		"requires": "|@Starting area:ALL|"
+	},
+	"Club": 	{
+		"connects_to": [],
+		"requires": "|@Starting area:ALL|"
+	},
+	"Docks": 	{
+		"connects_to": [],
+		"requires": "|@Starting area:ALL|"
+	},
+	"END": 	{
+		"connects_to": [],
+		"requires": "|@Starting area:ALL| AND ({ItemValue(checks:17)} OR ({ItemValue(checks:16)} AND ((|Beer| AND |Ice|) OR (|Pizza| AND |Bullets|) OR (|Fish| AND |Pufferfish|))))"
+	}
+}
